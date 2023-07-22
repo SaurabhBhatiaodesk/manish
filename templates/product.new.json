@@ -1,0 +1,388 @@
+{
+  "sections": {
+    "product-form": {
+      "type": "template--product",
+      "blocks": {
+        "media": {
+          "type": "media",
+          "settings": {
+            "image_size": "medium",
+            "image-display": "thumbnails",
+            "thumbnail_position": "below",
+            "enable_image_zoom": true,
+            "enable_video_loop": false
+          }
+        },
+        "sale_badge": {
+          "type": "sale_badge",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "08f991a5-2629-4bf6-a39f-2d0002b685c1": {
+          "type": "product-rating",
+          "settings": {
+            "rating-label": "",
+            "rating": "4",
+            "rating-icon-full": "shopify:\/\/shop_images\/star.png",
+            "rating-max": 5
+          }
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "shipping_policy": true,
+            "tax_included": false
+          }
+        },
+        "options": {
+          "type": "options",
+          "settings": {
+            "product_variant_style": "swatches",
+            "thumbnail_changes_variant": false,
+            "hide_soldout_variants": false
+          }
+        },
+        "quantity": {
+          "type": "quantity",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_smart_checkout": true
+          }
+        },
+        "695a82d4-5c88-41e0-9797-aa7b8bd31339": {
+          "type": "local_pickup",
+          "settings": {
+          }
+        },
+        "3d170595-04d4-45f0-b5b5-fd289fedb610": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p>100% Pure Himalayan Shilajit sourced from high altitudes (~18000 F)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "media",
+        "sale_badge",
+        "title",
+        "08f991a5-2629-4bf6-a39f-2d0002b685c1",
+        "price",
+        "options",
+        "quantity",
+        "buy_buttons",
+        "695a82d4-5c88-41e0-9797-aa7b8bd31339",
+        "3d170595-04d4-45f0-b5b5-fd289fedb610"
+      ],
+      "settings": {
+        "enable_sticky": true,
+        "show_out_of_stock_email": true
+      }
+    },
+    "3ab53ced-b683-4113-bb60-ab9e020ed285": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--19788863766846__3ab53ced-b683-4113-bb60-ab9e020ed285-16887994227749a3e7-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div class=\"container\">\n<div class=\"row\">\n\n  <div class=\"col-12 col-sm-3\">\n<div class=\"d-flex justify-content-center\">\n<div class=\"gallery\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"https:\/\/d1df6wkcklzosl.cloudfront.net\/13275doctor_recom_png.png\" alt=\"Doctor\" class=\"imgs\">\n  <\/a>\n  <h4>Doctor<br> recommended<\/h4>\n<\/div>\n<\/div>\n\n\n<\/div>\n  <div class=\"col-12 col-sm-3\">\n\n<div class=\"d-flex justify-content-center\">\n<div class=\"gallery\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"https:\/\/d1df6wkcklzosl.cloudfront.net\/463565__off_online_payment_png.png\" alt=\"ayurvdic\" class=\"imgs\">\n  <\/a>\n  <h4>5% off on online<br> payment<\/h4>\n<\/div>\n<\/div>\n<\/div>\n  <div class=\"col-12 col-sm-3\">\n<div class=\"d-flex justify-content-center\">\n<div class=\"gallery\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"https:\/\/d1df6wkcklzosl.cloudfront.net\/99499200_easy_refunds_png.png\" alt=\"Forest\" class=\"imgs\">\n  <\/a>\n  <h4>Easy Refund<\/h4>\n\n<\/div>\n<\/div>\n\n<\/div>\n  <div class=\"col-12 col-sm-3\">\n<div class=\"d-flex justify-content-center\">\n<div class=\"gallery\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"https:\/\/d1df6wkcklzosl.cloudfront.net\/6693200_cashback_png.png\" alt=\"Forest\" class=\"imgs\">\n  <\/a>\n  <h4>5% cashback on all<br> orders<\/h4>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--19788863766846__3ab53ced-b683-4113-bb60-ab9e020ed285-16887994227749a3e7-0"
+      ],
+      "custom_css": [
+        ".container {margin-top: 20px; margin-bottom: 20px; background: #f0eee7; padding: 30px 0; max-width: 1200px;}",
+        ".imgs {width: 80px;}",
+        ".gallery {text-align: center;}",
+        ".desc {font-weight: 600;}"
+      ],
+      "settings": {
+      }
+    },
+    "3bf49192-2832-49af-bd46-416e2f513574": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "98a24dc8-e648-4940-ba74-67bc1d740926": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 30px 0;\"><div class=\"wrapper-padded\"><h2 class=\"homepage-sections--title\">Herbs to support lung functions\n<\/h2><\/div><\/div>",
+            "width": "100%"
+          }
+        },
+        "template--19788863766846__3bf49192-2832-49af-bd46-416e2f513574-16887994227749a3e7-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div class=\"container\">\n<div class=\"row\">\n\n  <div class=\"col-12 col-sm-6\">\n<div class=\"d\">\n\n<div class=\"gallery\">\n<div class=\"row\">\n\n  <div class=\"col-12 col-sm-4\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0074\/4036\/7716\/files\/Certification_Stamps_FDA.svg?v=1635232461\" alt=\"Doctor\" class=\"imgs\">\n  <\/a>\n<\/div>\n\n  <div class=\"col-12 col-sm-8\" style=\"text-align: left;\">\n  <h4 class=\"h4-text\">13 Ayurvedic Herbs<\/h4>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n\n\n<\/div>\n  <div class=\"col-12 col-sm-6\">\n\n<div class=\"gallery\">\n<div class=\"row\">\n\n  <div class=\"col-12 col-sm-4\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0074\/4036\/7716\/files\/Ginger_herbs_200-x-200-min-min.png?v=1687846494\" alt=\"Doctor\" class=\"imgs\">\n  <\/a>\n<\/div>\n\n <div class=\"col-12 col-sm-8\" style=\"text-align: left;\">\n  <h4 class=\"h4-text\">13 Ginger\nRemoves toxins<\/h4>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n  <div class=\"col-12 col-sm-6\">\n<div class=\"d\">\n\n<div class=\"gallery\">\n<div class=\"row\">\n\n  <div class=\"col-12 col-sm-4\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0074\/4036\/7716\/files\/Pippali_herbs_200-x-200-min.png?v=1687846582\" alt=\"Doctor\" class=\"imgs\">\n  <\/a>\n<\/div>\n\n <div class=\"col-12 col-sm-8\" style=\"text-align: left;\">\n  <h4 class=\"h4-text\">13 Pippali\nStrengthens lungs<\/h4>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n\n\n<\/div>\n  <div class=\"col-12 col-sm-6\">\n\n<div class=\"gallery\">\n<div class=\"row\">\n\n  <div class=\"col-12 col-sm-4\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0074\/4036\/7716\/files\/Black-pepper_herbs_200-x-200-min-min.png?v=1687846582\" alt=\"Doctor\" class=\"imgs\">\n  <\/a>\n<\/div>\n\n  <div class=\"col-12 col-sm-8\" style=\"text-align: left;\">\n  <h4 class=\"h4-text\">13 Black Pepper\nReduces congestion in lungs<\/h4>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n\n  <div class=\"col-12 col-sm-6\">\n<div class=\"d\">\n\n<div class=\"gallery\">\n<div class=\"row\">\n\n  <div class=\"col-12 col-sm-4\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0074\/4036\/7716\/files\/Cinnanom_herbs_200-x-200-min_13a6be64-b053-4b24-a2df-90b57beceb21.png?v=1687846582\" alt=\"Doctor\" class=\"imgs\">\n  <\/a>\n<\/div>\n\n   <div class=\"col-12 col-sm-8\" style=\"text-align: left;\">\n  <h4 class=\"h4-text\">Cinnamon\nReduces infection; builds lung immunity<\/h4>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n\n\n<\/div>\n<\/div>\n<\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "98a24dc8-e648-4940-ba74-67bc1d740926",
+        "template--19788863766846__3bf49192-2832-49af-bd46-416e2f513574-16887994227749a3e7-0"
+      ],
+      "custom_css": [
+        ".container {margin-top: 10px; margin-bottom: 10px; padding: 30px 0; max-width: 1200px;}",
+        ".imgs {width: 80px;}",
+        ".gallery {text-align: center; border-bottom: 1px solid #ddd; padding-bottom: 20px;}",
+        ".desc {font-weight: 600;}",
+        ".h4-text {margin-top: 5%;}"
+      ],
+      "settings": {
+      }
+    },
+    "image-with-text": {
+      "type": "image--image-with-text",
+      "disabled": true,
+      "settings": {
+        "colors": "light",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "9943fddf-803d-4cc4-8cf7-125fa2503841": {
+      "type": "accordion",
+      "blocks": {
+        "template--19788863766846__9943fddf-803d-4cc4-8cf7-125fa2503841-16888067881a80c1d6-0": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Benefits",
+            "text": "<p><strong>Supports healthy lung functions<\/strong><\/p><ul><li>Reduces lung damage from pollution, smoking, and cough.<\/li><li>Cleanses lungs from toxins, tar, and mucus.<\/li><li>Enhances lung immunity, reducing infections<\/li><li>Improves lung functions for better oxygen absorption.<\/li><li>Helps you breathe easy & smoothly<\/li><li>Aids in reducing chronic cold and cough symptoms.<\/li><\/ul><p><strong>Breathe easy with tar-free, healthy lungs, lifelong.<\/strong><\/p>"
+          }
+        },
+        "template--19788863766846__9943fddf-803d-4cc4-8cf7-125fa2503841-16888067881a80c1d6-1": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Who should take it",
+            "text": "<p><strong>Recommended for men & women above 14 years & anyone who has<\/strong><\/p><ul><li>Habit of smoking<\/li><li>Lives or works in polluted areas<\/li><li>Uneven & laboured breathing<\/li><li>Chronic lung issues like cold, asthma, etc<\/li><li>Smokers' cough<\/li><li>high intensity workout regimen, take part in marathons & adventures<\/li><\/ul>"
+          }
+        },
+        "template--19788863766846__9943fddf-803d-4cc4-8cf7-125fa2503841-16888067881a80c1d6-2": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Product Details",
+            "text": "<p><strong>100% Ayurvedic formula for healthy lungs<\/strong><\/p><ul><li>Clinical research published in ResearchGate, NCBI<\/li><li>FDA approved. GMP Certified<\/li><li>Tested for Safety, Purity, Potency<\/li><li>Toxin-free. Zero Side-effects<\/li><\/ul>"
+          }
+        },
+        "7ba8e07a-519b-47eb-93ca-e4bb1e379c24": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Dosage & Duration",
+            "text": "<p><strong>Consume Daily<\/strong><\/p><ul><li>2 tablets before breakfast<\/li><li>Safe to consume lifelong<\/li><\/ul>"
+          }
+        },
+        "8cfb96c3-ee92-447b-80bc-2684ddba04e9": {
+          "type": "tab_content",
+          "settings": {
+            "question": "How It's Made",
+            "text": "<p>Potent variety of Ginger & Pippali are blended together to form a thick paste, which is sundried & mixed with fine powders of other herbs like Black Pepper, Cinnamon, Elaichi, Chitrak, Jeera & more. This mixture is blended & cold-pressed into tablets to improve its medicinal properties.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19788863766846__9943fddf-803d-4cc4-8cf7-125fa2503841-16888067881a80c1d6-0",
+        "template--19788863766846__9943fddf-803d-4cc4-8cf7-125fa2503841-16888067881a80c1d6-1",
+        "template--19788863766846__9943fddf-803d-4cc4-8cf7-125fa2503841-16888067881a80c1d6-2",
+        "7ba8e07a-519b-47eb-93ca-e4bb1e379c24",
+        "8cfb96c3-ee92-447b-80bc-2684ddba04e9"
+      ],
+      "custom_css": [
+        ".container {max-width: 1200px;}"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "faq_icon": "caret"
+      }
+    },
+    "dcda65ea-8ce5-43e1-ae05-158812bc1d60": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/winners_desktop_1950x_a8da753c-9580-4783-a7d3-41368fc94054.jpg",
+        "image_height": "40vw",
+        "bg_image_overlay_opacity": 0,
+        "parallax": false,
+        "title": "",
+        "text": "",
+        "colors": "light",
+        "textPosition": "center",
+        "textAlignment": "center",
+        "heading--text-size": 26,
+        "text--text-size": 18,
+        "link": "",
+        "button_label": "",
+        "button-text": "#ffffff",
+        "button-background": "#000000"
+      }
+    },
+    "50746cfe-13bc-4e37-8406-939b8f257b46": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--19788863766846__50746cfe-13bc-4e37-8406-939b8f257b46-16887994227749a3e7-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 30px 0;\"><div class=\"wrapper-padded\">\n<h2 class=\"homepage-sections--title\">Rating<\/h2>This text can be used to share information about your brand with customers.<\/div><\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--19788863766846__50746cfe-13bc-4e37-8406-939b8f257b46-16887994227749a3e7-0"
+      ],
+      "settings": {
+      }
+    },
+    "product-description": {
+      "type": "template--product--description",
+      "disabled": true,
+      "settings": {
+        "enable_readmore": false
+      }
+    },
+    "product-recommendations": {
+      "type": "template--product--recommendations",
+      "disabled": true,
+      "blocks": {
+        "product_card_image": {
+          "type": "product_card_image",
+          "settings": {
+            "hover-effect": false,
+            "enable_badges": true
+          }
+        },
+        "product_card_title": {
+          "type": "product_card_title",
+          "settings": {
+          }
+        },
+        "product_card_vendor": {
+          "type": "product_card_vendor",
+          "settings": {
+          }
+        },
+        "product_card_price": {
+          "type": "product_card_price",
+          "settings": {
+          }
+        },
+        "product_card_button": {
+          "type": "product_card_button",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "product_card_image",
+        "product_card_title",
+        "product_card_vendor",
+        "product_card_price",
+        "product_card_button"
+      ],
+      "settings": {
+        "enable_product_recommendations": false,
+        "product_recommendations_heading": "You may also like"
+      }
+    },
+    "recently-viewed": {
+      "type": "template--product--recently-viewed",
+      "disabled": true,
+      "settings": {
+        "enable_recently_viewed": false,
+        "recently_viewed_title": "Recently viewed products"
+      }
+    },
+    "be01de73-8abc-4706-91e9-9031a1c6ac89": {
+      "type": "product--accordion-with-image",
+      "blocks": {
+        "template--19788863766846__be01de73-8abc-4706-91e9-9031a1c6ac89-1688807297672dc05d-0": {
+          "type": "accordion",
+          "settings": {
+            "accordion_header": "How is it different from other lung detox products?",
+            "accordion_content": "<p>How is it different from other lung detox products?These tablets are made with Ginger & Pippali, which are clinically proven to remove toxins & mucus to enhance lung capacity.<\/p>"
+          }
+        },
+        "template--19788863766846__be01de73-8abc-4706-91e9-9031a1c6ac89-1688807297672dc05d-1": {
+          "type": "accordion",
+          "settings": {
+            "accordion_header": "How can I take it?",
+            "accordion_content": "<p>Consume daily 2 tablets before breakfast<\/p>"
+          }
+        },
+        "template--19788863766846__be01de73-8abc-4706-91e9-9031a1c6ac89-1688807297672dc05d-2": {
+          "type": "accordion",
+          "settings": {
+            "accordion_header": "When will I see results?",
+            "accordion_content": "<p>Follow the 6 Months Cycle of Lung detox to see the best results.<\/p>"
+          }
+        },
+        "5ae2ebd8-cbc2-4dbc-9eb3-f4a15f2cf305": {
+          "type": "accordion",
+          "settings": {
+            "accordion_header": "Can it reduce lung issues due to smoking & pollution?",
+            "accordion_content": "<p>Yes. It will help in reducing the damage caused by smoking & pollution as long as consumed.<\/p>"
+          }
+        },
+        "da383d2c-d060-43d4-a0fc-2c89ab316b06": {
+          "type": "accordion",
+          "settings": {
+            "accordion_header": "Will this have any side effects?",
+            "accordion_content": "<p>No, this is made with 100% pure & potent Ayurvedic herbs and is absolutely safe to be consumed lifelong.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19788863766846__be01de73-8abc-4706-91e9-9031a1c6ac89-1688807297672dc05d-0",
+        "template--19788863766846__be01de73-8abc-4706-91e9-9031a1c6ac89-1688807297672dc05d-1",
+        "template--19788863766846__be01de73-8abc-4706-91e9-9031a1c6ac89-1688807297672dc05d-2",
+        "5ae2ebd8-cbc2-4dbc-9eb3-f4a15f2cf305",
+        "da383d2c-d060-43d4-a0fc-2c89ab316b06"
+      ],
+      "custom_css": [
+        ".container {max-width: 1200px;}"
+      ],
+      "settings": {
+        "colors": "white",
+        "section_title": "FAQ",
+        "faq_icon": "caret",
+        "image--background-color": "#ffffff",
+        "image--text-color": "#333333",
+        "title": "",
+        "text": "",
+        "link": "",
+        "button_text": ""
+      }
+    }
+  },
+  "order": [
+    "product-form",
+    "3ab53ced-b683-4113-bb60-ab9e020ed285",
+    "3bf49192-2832-49af-bd46-416e2f513574",
+    "image-with-text",
+    "9943fddf-803d-4cc4-8cf7-125fa2503841",
+    "dcda65ea-8ce5-43e1-ae05-158812bc1d60",
+    "50746cfe-13bc-4e37-8406-939b8f257b46",
+    "product-description",
+    "product-recommendations",
+    "recently-viewed",
+    "be01de73-8abc-4706-91e9-9031a1c6ac89"
+  ]
+}

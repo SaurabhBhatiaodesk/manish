@@ -1,0 +1,855 @@
+{
+  "sections": {
+    "image-slideshow": {
+      "type": "image--slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web_Taapsee-Home-Landing-page-DMRO-banner_3750x_48f7ecf2-b26a-4332-afb2-95420be3a573.webp",
+            "mobile_image": "shopify:\/\/shop_images\/Taapsee_PCOS-Carousel_720x_f93c3ecc-2254-498d-80aa-889405584164.webp",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "shopify:\/\/collections",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#ffffff",
+            "button-text": "#333333",
+            "button-background": "#ffffff",
+            "captionHorizontal": "right",
+            "captionAlignment": "right"
+          }
+        },
+        "e174c904-1f62-42a7-a9b4-b950ff95e716": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Web-Jeehv-1_3000x_cf2eb62c-95f8-41f0-a154-796cccf26960.webp",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "caption-background": "rgba(0,0,0,0)",
+            "caption-text": "#242424",
+            "button-text": "#333333",
+            "button-background": "#f3f3f3",
+            "captionHorizontal": "left",
+            "captionAlignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "e174c904-1f62-42a7-a9b4-b950ff95e716"
+      ],
+      "settings": {
+        "slider-animation": "slide",
+        "slider-width": "full-width",
+        "vertical-alignment": true,
+        "text-below-image": false,
+        "slider-slide-time": 5,
+        "caption-heading-size": 36,
+        "caption-subheading-size": 20,
+        "caption-button-size": 14,
+        "show-slide-dots": true,
+        "show-slide-arrows": true,
+        "slider-navigation-color": "#ffffff"
+      }
+    },
+    "a9b5a5a3-f011-4361-8902-7a94413b96f9": {
+      "type": "text--rich-text",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "title": "Specialized ayurveda wellness that nourishes and heals",
+        "text": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "89b500ff-a107-498f-9662-642fd524658f": {
+      "type": "visual-navigation-banner",
+      "blocks": {
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-0": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "",
+            "link_image": "shopify:\/\/shop_images\/500px_Media-Entreprenuer.png",
+            "link_text": ""
+          }
+        },
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-1": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "",
+            "link_image": "shopify:\/\/shop_images\/500px_Media-Inc42.png",
+            "link_text": ""
+          }
+        },
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-2": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "",
+            "link_image": "shopify:\/\/shop_images\/500px_Media-Entreprenuer.png",
+            "link_text": ""
+          }
+        },
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-3": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "",
+            "link_image": "shopify:\/\/shop_images\/500px_Media-MidDay.png",
+            "link_text": ""
+          }
+        },
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-4": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "",
+            "link_image": "shopify:\/\/shop_images\/Media-Mint_e45f2fa6-faad-42fc-b3a1-c6dec7820f76.png",
+            "link_text": ""
+          }
+        },
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-5": {
+          "type": "navigation_link",
+          "settings": {
+            "link_url": "",
+            "link_image": "shopify:\/\/shop_images\/500px_Media-Yourstory.png",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-0",
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-1",
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-2",
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-3",
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-4",
+        "template--19720801812798__89b500ff-a107-498f-9662-642fd524658f-16884664855d6334fd-5"
+      ],
+      "settings": {
+        "title": "",
+        "image_style": "square"
+      }
+    },
+    "7b74f60b-fe73-40e0-83bb-fa6ebde0e762": {
+      "type": "Categories-List",
+      "settings": {
+      }
+    },
+    "61004832-df94-4f2f-87aa-53324358a2dc": {
+      "type": "template--product--info-columns",
+      "disabled": true,
+      "blocks": {
+        "template--14330649215111__61004832-df94-4f2f-87aa-53324358a2dc-16854641266feb8793-0": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "text": "Only brand that has 80% actual fruit and 20% medicinal herbs.",
+            "link": "",
+            "link_text": ""
+          }
+        },
+        "template--14330649215111__61004832-df94-4f2f-87aa-53324358a2dc-16854641266feb8793-1": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "text": "Years of R&D, testing, clinical trials and sampling for every single product.",
+            "link": "",
+            "link_text": "Optional link"
+          }
+        },
+        "template--14330649215111__61004832-df94-4f2f-87aa-53324358a2dc-16854641266feb8793-2": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "text": "India’s only brand with state-of-art 45000 sq ft manufacturing unit.",
+            "link": "",
+            "link_text": "Optional link"
+          }
+        }
+      },
+      "block_order": [
+        "template--14330649215111__61004832-df94-4f2f-87aa-53324358a2dc-16854641266feb8793-0",
+        "template--14330649215111__61004832-df94-4f2f-87aa-53324358a2dc-16854641266feb8793-1",
+        "template--14330649215111__61004832-df94-4f2f-87aa-53324358a2dc-16854641266feb8793-2"
+      ],
+      "custom_css": [
+        "ul {display: flex;}",
+        "h6 {margin-top: 20px; font-size: 1rem; line-height: 1.4rem;}",
+        "img {width: 100px; height: 100px;}"
+      ],
+      "settings": {
+        "colors": "white"
+      }
+    },
+    "featured-collection": {
+      "type": "collection--featured-collection",
+      "settings": {
+        "colors": "white",
+        "title": "Ayurveda For Healthy Monthly Cycles",
+        "richtext": "",
+        "collection": "body",
+        "grid-desktop": 3,
+        "grid-tablet": 3,
+        "grid-mobile": 2,
+        "rows": 1,
+        "hover-effect": true,
+        "show-vendor": true,
+        "show_view_all": false
+      }
+    },
+    "0a8c26dd-d2d4-4d60-8062-91b4b4e4c59b": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--19720801812798__0a8c26dd-d2d4-4d60-8062-91b4b4e4c59b-168848795246069aa6-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div class=\"container\">\n<div class=\"row\">\n  <div class=\"col-12\">\n<div class=\"d-flex justify-content-center\">\n<div class=\"gallery\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"https:\/\/krishnaayurved.com\/cdn\/shop\/files\/Product_Icon-03_1600x.png?v=1688390332\" alt=\"ISO\" class=\"imgs\">\n  <\/a>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>",
+            "width": "100%"
+          }
+        },
+        "44b4d6f2-0800-4108-90b9-07242cf63f51": {
+          "type": "html",
+          "settings": {
+            "code": "<div class=\"container\">\n<div class=\"row\">\n  <div class=\"col-12\">\n<div class=\"d-flex justify-content-center\">\n<div class=\"gallery\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"https:\/\/krishnaayurved.com\/cdn\/shop\/files\/Untitled-2_copy_1600x.png?v=1624087844\" alt=\"Gluten\" class=\"imgs\">\n  <\/a>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--19720801812798__0a8c26dd-d2d4-4d60-8062-91b4b4e4c59b-168848795246069aa6-0",
+        "44b4d6f2-0800-4108-90b9-07242cf63f51"
+      ],
+      "custom_css": [
+        ".container {margin-top: 40px; margin-bottom: 40px;}"
+      ],
+      "settings": {
+      }
+    },
+    "4187a182-af23-41e6-bcdd-4c4b554f108b": {
+      "type": "image--gallery",
+      "disabled": true,
+      "blocks": {
+        "template--19720801812798__4187a182-af23-41e6-bcdd-4c4b554f108b-168847461510d5715d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iso.png",
+            "link": "",
+            "title": "ISO CERTIFIED",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "template--19720801812798__4187a182-af23-41e6-bcdd-4c4b554f108b-168847461510d5715d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iso.png",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "template--19720801812798__4187a182-af23-41e6-bcdd-4c4b554f108b-168847461510d5715d-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iso.png",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        },
+        "96db95ce-7d94-497f-8f23-988cfa026662": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/iso.png",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#323232"
+          }
+        }
+      },
+      "block_order": [
+        "template--19720801812798__4187a182-af23-41e6-bcdd-4c4b554f108b-168847461510d5715d-0",
+        "template--19720801812798__4187a182-af23-41e6-bcdd-4c4b554f108b-168847461510d5715d-1",
+        "template--19720801812798__4187a182-af23-41e6-bcdd-4c4b554f108b-168847461510d5715d-2",
+        "96db95ce-7d94-497f-8f23-988cfa026662"
+      ],
+      "settings": {
+        "colors": "light",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": false,
+        "section-width": "full",
+        "content-position": "hide"
+      }
+    },
+    "ea539e0a-759b-4234-be8f-2ef68c7f9a3a": {
+      "type": "text--rich-text",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "title": "Our Story on Glimpse",
+        "text": "",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "video-video-hero": {
+      "type": "video--video-hero",
+      "disabled": true,
+      "settings": {
+        "url": "https:\/\/www.youtube.com\/watch?v=EZMkjMKcoI0&t=6s",
+        "desktopHeight": "550",
+        "mobileHeight": "350",
+        "title": "About Amrith noni",
+        "subheading": "Amrith Noni is India’s fastest growing Ayurveda brand.",
+        "textAlignment": "center-left",
+        "textColor": "#ffffff",
+        "textShadow": false,
+        "heading--text-size": 36,
+        "subheading--text-size": 24,
+        "link": "",
+        "button_label": "Learn more",
+        "button-text": "#333333",
+        "button-background": "#ffffff"
+      }
+    },
+    "6bbb4410-137e-45e4-b005-cc424f1835b2": {
+      "type": "text--rich-text",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "title": "Combo Offers",
+        "text": "<p><strong>Grab best combo deals today <\/strong><\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "featured-collection-01": {
+      "type": "collection--featured-collection",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "collection": "proprietary-medicine",
+        "grid-desktop": 4,
+        "grid-tablet": 3,
+        "grid-mobile": 2,
+        "rows": 2,
+        "hover-effect": true,
+        "show-vendor": false,
+        "show_view_all": false
+      }
+    },
+    "image-text-with-image-overlay-1": {
+      "type": "image--image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_height": "40vw",
+        "bg_image_overlay_opacity": 0,
+        "parallax": true,
+        "title": "GOT 100% Success Rate on Clinical Trial",
+        "text": "Amrith Noni Plus has completed successful clinical trial on human and got 100% result",
+        "colors": "dark",
+        "textPosition": "left",
+        "textAlignment": "right",
+        "heading--text-size": 36,
+        "text--text-size": 18,
+        "link": "shopify:\/\/collections\/all",
+        "button_label": "Learn more",
+        "button-text": "#ffffff",
+        "button-background": "#000000"
+      }
+    },
+    "logo-list": {
+      "type": "image--logo-list",
+      "disabled": true,
+      "blocks": {
+        "logo-list-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo-list-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo-list-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo-list-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "230637cc-059c-4bbd-a7da-e633e6559c32": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "be009b85-0b96-41a8-bf9e-6298f581250b": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo-list-0",
+        "logo-list-1",
+        "logo-list-2",
+        "logo-list-3",
+        "230637cc-059c-4bbd-a7da-e633e6559c32",
+        "be009b85-0b96-41a8-bf9e-6298f581250b"
+      ],
+      "settings": {
+        "colors": "accent",
+        "width": 200,
+        "title": "As seen in"
+      }
+    },
+    "image-image-with-text-1": {
+      "type": "image--image-with-text",
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "text_overlapping_image": true,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "left",
+        "title": "Share brand or product details",
+        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "button_label": "Learn more",
+        "button_link": "shopify:\/\/collections"
+      }
+    },
+    "products-featured-product-1": {
+      "type": "products--featured-product",
+      "disabled": true,
+      "blocks": {
+        "8efca279-ffd0-4a7c-bf02-f5bd314bf8b9": {
+          "type": "image-offer",
+          "settings": {
+            "link": "",
+            "hover_border_color": ""
+          }
+        },
+        "3b805eed-ebcd-40ec-bf54-687ae7bf213a": {
+          "type": "image-offer",
+          "settings": {
+            "link": "",
+            "hover_border_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "8efca279-ffd0-4a7c-bf02-f5bd314bf8b9",
+        "3b805eed-ebcd-40ec-bf54-687ae7bf213a"
+      ],
+      "settings": {
+        "title": "",
+        "richtext": "",
+        "featured_product": "",
+        "product_variant_style": "swatches",
+        "hide_soldout_variants": false,
+        "show-giftwrap": false,
+        "show-vendor": false,
+        "show_product_description": true,
+        "show_quantity_selector": true,
+        "show_add_to_cart": true,
+        "show_smart_checkout": true,
+        "image-placement": "left",
+        "enable_video_loop": false
+      }
+    },
+    "image-gallery": {
+      "type": "image--gallery",
+      "disabled": true,
+      "blocks": {
+        "gallery-0": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/collections\/all",
+            "title": "Heading",
+            "subheading": "Subheading",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#1f1f1f"
+          }
+        },
+        "gallery-1": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/collections\/all",
+            "title": "Heading",
+            "subheading": "Subheading",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#1f1f1f"
+          }
+        },
+        "gallery-2": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/collections\/all",
+            "title": "Heading",
+            "subheading": "Subheading",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#1f1f1f"
+          }
+        },
+        "gallery-3": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/collections\/all",
+            "title": "Heading",
+            "subheading": "Subheading",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#1f1f1f"
+          }
+        }
+      },
+      "block_order": [
+        "gallery-0",
+        "gallery-1",
+        "gallery-2",
+        "gallery-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "Gallery",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": false,
+        "section-width": "full",
+        "content-position": "hover"
+      }
+    },
+    "image-gallery-0": {
+      "type": "image--gallery",
+      "disabled": true,
+      "blocks": {
+        "gallery-0": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/collections\/all",
+            "title": "Heading",
+            "subheading": "Subheading",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#1f1f1f"
+          }
+        },
+        "gallery-1": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/collections\/all",
+            "title": "Heading",
+            "subheading": "Subheading",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#1f1f1f"
+          }
+        },
+        "gallery-2": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/collections\/all",
+            "title": "Heading",
+            "subheading": "Subheading",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#1f1f1f"
+          }
+        },
+        "gallery-3": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/collections\/all",
+            "title": "Heading",
+            "subheading": "Subheading",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": true,
+            "overlay_font_color": "#ffffff",
+            "overlay_color": "#1f1f1f"
+          }
+        }
+      },
+      "block_order": [
+        "gallery-0",
+        "gallery-1",
+        "gallery-2",
+        "gallery-3"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": false,
+        "section-width": "full",
+        "content-position": "hover"
+      }
+    },
+    "d0e7d0ce-fa6b-4a2c-9123-815a7285a560": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--19720801812798__d0e7d0ce-fa6b-4a2c-9123-815a7285a560-168848795246069aa6-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div style=\"text-align:center; padding: 30px 0;background-image:url('https:\/\/krishnaayurved.com\/cdn\/shop\/t\/37\/assets\/swirl.svg');opacity: 0.8;background-size: contain;\"><div class=\"wrapper-padded\">\n<b>100% Ayurvedic &amp; Herbal<\/b> 5% OFF, Code \"SAVE5\" (Order above ₹499) <button type=\"button\" class=\"btn btn-success\">Shop Now<\/button>\n<\/div><\/div>",
+            "width": "75%"
+          }
+        }
+      },
+      "block_order": [
+        "template--19720801812798__d0e7d0ce-fa6b-4a2c-9123-815a7285a560-168848795246069aa6-0"
+      ],
+      "custom_css": [
+        ".three-quarters {background-color: #fdf4f4; border-radius: 20px;}",
+        ".btn-success {border-radius: 20px; background: #305724; padding: 6px 10px;}"
+      ],
+      "settings": {
+      }
+    },
+    "0dc9970e-5558-476e-8231-048b311f75cb": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--19720801812798__0dc9970e-5558-476e-8231-048b311f75cb-1688481632599ae8dc-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-12 col-sm-6 mt-2\">\n<section class=\"hero-area bg-white border\" style=\"background-image:url('https:\/\/krishnaayurved.com\/cdn\/shop\/t\/37\/assets\/paper_1080x.jpg?v=155272509111049269451680766048');background-color:#ecf3e9\">\n  <div class=\"container\">\n    <div class=\"row text-left\">\n      <div class=\"col-6 my-auto\">\n<p>IMMUNITY BOOSTER<\/p>\n        <h3 class=\"text-primary font-tertiary\">Jeevan Sanjeevani\n<\/h3>\n<p>Juice that is made from ayurvedic immunity herbs like geloy, amla, neem, tulsi, and more.<\/p>\n<button type=\"button\" class=\"btn btn-dark\">Shop Now<\/button>\n      <\/div>\n      <div class=\"col-6 mobile-img\">\n        <img src=\"https:\/\/krishnaayurved.com\/cdn\/shop\/products\/Jeevan1000_1_540x.jpg?v=1675835214\" class=\"img-fluid\" alt=\"mobile screen\">\n      <\/div>\n\n    <\/div>\n  <\/div>\n\n<\/section>\n\n<\/div>\n    <div class=\"col-12 col-sm-6 mt-2\">\n\n<section class=\"hero-area bg-white border\" style=\"background-image:url('https:\/\/krishnaayurved.com\/cdn\/shop\/t\/37\/assets\/paper_1080x.jpg?v=155272509111049269451680766048');background-color:#ecf3e9\">\n  <div class=\"container\">\n    <div class=\"row text-left\">\n      <div class=\"col-6 my-auto\">\n<p> DIGESTION <\/p>\n        <h3 class=\"text-primary font-tertiary\">Amla Juice<\/h3>\n<p>Juice has been extracted from Indian Gooseberry or Amla to provide multiple health benefits for an active body and mind.\n<\/p>\n<button type=\"button\" class=\"btn btn-dark\">Shop Now<\/button>\n\n      <\/div>\n      <div class=\"col-6 mobile-img\">\n        <img src=\"https:\/\/krishnaayurved.com\/cdn\/shop\/products\/Jeevan1000_1_540x.jpg?v=1675835214\" class=\"img-fluid\" alt=\"mobile screen\">\n      <\/div>\n\n    <\/div>\n  <\/div>\n\n<\/section>\n<\/div>\n    <div class=\"w-100\"><\/div>\n<\/div>\n<\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--19720801812798__0dc9970e-5558-476e-8231-048b311f75cb-1688481632599ae8dc-0"
+      ],
+      "custom_css": [
+        ".container {margin-top: 20px; margin-bottom: 20px;}",
+        ".btn-dark {border-radius: 20px; background: #162d0f;}",
+        ".text-primary {color: #162d0f !important;}",
+        "p {color: #162d0f; font-weight: 500;}",
+        ".border {border-radius: 15px; border: none;}"
+      ],
+      "settings": {
+      }
+    },
+    "2943d0ae-c1d6-4084-bed9-35797ac98ea5": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--19720801812798__2943d0ae-c1d6-4084-bed9-35797ac98ea5-16884844658ca17500-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-12 col-sm-6 mt-2\">\n<section class=\"hero-area bg-white border\">\n  <div class=\"container\">\n    <div class=\"row text-center\">\n      <div class=\"col-6 my-auto\">\n<p>BUY TOGETHER<\/p>\n        <h3 class=\"text-primary font-tertiary\">Combo<\/h3>\n<p>VIEW ALL<\/p>\n      <\/div>\n      <div class=\"col-6 mobile-img\">\n        <img src=\"https:\/\/krishnaayurved.com\/cdn\/shop\/products\/fat_laukiamla_360x.jpg?v=1645526426\" class=\"img-fluid\" alt=\"mobile screen\">\n      <\/div>\n\n    <\/div>\n  <\/div>\n\n<\/section>\n\n<\/div>\n    <div class=\"col-12 col-sm-6 mt-2\">\n\n<section class=\"hero-area bg-white border\">\n  <div class=\"container\">\n    <div class=\"row text-center\">\n      <div class=\"col-6 my-auto\">\n<p>JUST FOR YOU<\/p>\n        <h3 class=\"text-primary font-tertiary\">Offers<\/h3>\n<p>VIEW ALL\n\n      <\/p>\n<\/div>\n      <div class=\"col-6 mobile-img\">\n        <img src=\"https:\/\/krishnaayurved.com\/cdn\/shop\/products\/Jeevan1000_1_360x.jpg?v=1675835214\" class=\"img-fluid\" alt=\"mobile screen\">\n      <\/div>\n\n    <\/div>\n  <\/div>\n\n<\/section>\n<\/div>\n    <div class=\"w-100\"><\/div>\n<\/div>\n<\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--19720801812798__2943d0ae-c1d6-4084-bed9-35797ac98ea5-16884844658ca17500-0"
+      ],
+      "custom_css": [
+        ".container {margin-top: 20px; margin-bottom: 20px;}",
+        ".border {border-radius: 20px;}",
+        ".text-primary {color: #162d0f !important; font-size: 45px;}"
+      ],
+      "settings": {
+      }
+    },
+    "edb9d3c4-6628-4931-9e97-3bf889553d59": {
+      "type": "text--testimonials",
+      "blocks": {
+        "template--20026452902206__edb9d3c4-6628-4931-9e97-3bf889553d59-text-1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-user.png",
+            "testimonial_text": "<p>\"Show off incredible feedback from your customers\"<\/p>",
+            "customer_name": "John Smith",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "2fe83c70-1ebf-4582-aa72-91915a09f4bf": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-user.png",
+            "testimonial_text": "<p>\"Show off incredible feedback from your customers\"<\/p>",
+            "customer_name": "John Smith",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "3e26423d-1bef-4312-8d7e-3f3262604f54": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-user.png",
+            "testimonial_text": "<p>\"Show off incredible feedback from your customers\"<\/p>",
+            "customer_name": "John Smith",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "70025616-b228-4b86-a721-ed08127d30e1": {
+          "type": "text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-user.png",
+            "testimonial_text": "<p>\"Show off incredible feedback from your customers\"<\/p>",
+            "customer_name": "John Smith",
+            "link": "",
+            "stars": 5
+          }
+        }
+      },
+      "block_order": [
+        "template--20026452902206__edb9d3c4-6628-4931-9e97-3bf889553d59-text-1",
+        "2fe83c70-1ebf-4582-aa72-91915a09f4bf",
+        "3e26423d-1bef-4312-8d7e-3f3262604f54",
+        "70025616-b228-4b86-a721-ed08127d30e1"
+      ],
+      "settings": {
+        "colors": "white",
+        "circle_images": true,
+        "title": "Testimonials"
+      }
+    },
+    "4098351b-5a00-4352-ada3-02bcfb8d58e4": {
+      "type": "advanced-layout--custom-html",
+      "blocks": {
+        "template--19720801812798__4098351b-5a00-4352-ada3-02bcfb8d58e4-16884844658ca17500-0": {
+          "type": "html",
+          "settings": {
+            "code": "<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-12 text-center mb-4 mt-4\"><img loading=\"lazy\" src=\"https:\/\/4wdpmdxj.cdn.imgeng.in\/https:\/\/i.ibb.co\/YpnJvLy\/4-balance.png?imgeng=\/w_1024\/cmpr_75\/\" alt=\"4BALANCE\" width=\"2251\" height=\"188\" style=\"width:300px;\"><\/div>\n  <div class=\"col-12 col-sm-3\">\n<div class=\"d-flex justify-content-center\">\n<div class=\"gallery\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAB3CAYAAAAjBT8EAAAACXBIWXMAAAsSAAALEgHS3X78AAAMEElEQVR4nO1dTXLbuBL+8urt7RtYcwIrJzCz0jKaE4Q+gZXiQsvQSy5UTz5B6BPEXnI19AlGOsHIJxjrBHkLNOMmCJAACf4owlelMkWTIISPaHQ3Go0PP3\/+hMd54D9jV8BjOHiyzwie7DOCJ\/uM8N+xK\/C7Y71ZzAAsAVwCOAB4SqLsbYy6fPDaeD9YbxaXALYAvkj\/OgJYJVGWDl0nT3YPIKJzANc1lz0mURYOUiGCH7P7QYwq0Ufp+5f1ZpEOUhuCJ7sfhOz4FcDHJMouAdxL1w1KuCe7H1yw4ziJsh0AJFEWA7iVrh2McE\/2wCDFbBTCPdn9YM+OY1LYfmEswj3Z\/SBlx1cA8ikQ7snuB0\/S92tMgHBPdj9YKc6NTrh3qjjGerMIAXyvuWQPIJBdppr7nDpefM92iPVmEUBBmPR9tB7uyXaE9WYxR3Ws\/ko9UyZxFMK9GHcAIm0HoXkXKIlgjZgeVKR7sjtCM+nxkkRZoLg2xIiEezHeHVuUid5DzF9XoBHTg4l0655NY9McwAxAUHPpDmKyfpdEWd6qdg5AwQMBRH3nEEEEKuR4r+\/OsOwU5flqZS9V3BdihB5uRDabiF+i7OQ3xRGiMZ+GmLSnFzKEqO9V\/dVaPAPY6l5UBQlHADPTKJQxCDcle4f6iXgbHCFenK3r8BxqlBXc1RUQ05Olnq4hOjCVCDXlAD0S3kh2jZNgD+ANQlzzis3Yp65XOSOd7Ft57FQ9r6grJ+US7+Jddf9zEmW\/xmBXRNeUB\/REuAnZKcrjknHhJP4DCHGqGwJeAYRtxnUqPwZwp7nkGcL2zZMoOxiWGdA9v+qaRNkH9r+\/2OWdiGbPDDEA4SZkH\/DeQ0tvuS0axOxDEmUqn7KurMKJIUuPQmKkpgQryl4C+MFOfaS\/Ocov7J9JlMmOlFZwQPhtkz5kQja\/oLFAE1APSVEl6gXA0lCb3aIqKe7hZli4BPAvO\/UAofDx5zlpC+m5IdoT3qgg1trZRArHoba2hkiiLE+ibIZqTNYNFDanVKctxI\/kDf8C4I8kymIXSh+VwQME79Az0fTcFHZ2OPe7X0Bj3xewdap0GptkUEzWR5Qb9hrAoYbwUPp+n0RZ0FZk10D3W3shuoAN4ah2vlld2U1ky2+T85UMpNzMUA7luYC+hxc97AgxZsau61SDXokuYEk4x6Gu3Cay5401cwB6iQKUCb9GdRYJAD7RZ+5KOdJAfrHvh1zFoRDTgGiTf9ebxU\/Spb5J\/69tj8n4xjWE36w3i1i6LqfPoecqcbJfB5YghQImLx2qw2OT5G0i+2DxsM6gyoYoj+HfyMwaGjN27FRXaQJTQjnkFSUce6hDoUqwIrthvHACGsPliqd9P7cBg5C93iwuyYklO4keIV6+e5RJf6VzjZMvgP2S3TmEY6FXJFGWkmPjM526Xm8W4cArHweVJjWLAblSGNOnFWrJTqIsX28W\/JQR2TTeBHhfj9ymZ6zwTjYgfmRqWwg1YgphWexMvHR0D7ernVsh0vNU3sAjhBvZmRJqoqC9smPTt30GoVx8gzAXrHsJKWDc6XKlcPLUgvWWzxAOG9N6yM\/pTYxT2+SoEh24tjZMyM7ZcWBYLr\/nAsDf1NttkUrfjcugoIUc7aY7A\/6lr+ALapO\/UZYiewi3p\/MXzJbsK5NeSo0j24jfbQmn3s3L+WKiJFId5Tn4PcxfFu52fDG8xwoaP\/gLDJWtNjAhWxYloUnBNOXWmXDF84O6i5lYlHuLkUuVhgouUp07bmqmKXsjGjAgmx7+zE6FpiaYC8Jp3OLmRqC7toFo00aU65Ya3mcEjQ39METKDVMPWsqOL2BgwBegH\/FVOv2dfrQpcnasHEbIVMvRgWga5+VADWc9TWND39rM43eBEdnUu7hWvrJxsCRRtkXVsX9nERbLlZUb+Z8kKX6gTPQz7Mc\/+QWMLe6tBb3csvtzkImVAja+8ZgdX8CyITrGQef8C3\/Rasa\/xiAIqcwAZbv+0ZX\/neqo6tGpi\/JNYUw2VYxrpne2dm8d4Q2SQiZtDrgLsWWOlwJHWAxVDWWHaBFC1AdsZ73kBniy9ZfTj5QDFr6gZq5WZXPSbJir5TEpyhq4kzBn0iMmQTRgSTY1Ovdq1QUZNJUToBqhYlpWiupc7tc2RNNYysW3k+lMsgxS6fSgc+IyrOezqSHkIAPXhM8Ut\/Dr5EDFW1ICrbDeLFaojqWhbTmKci8hhSNDSJ24a9ldYLXWa\/2edDWEOoNfGxffDOrFBLLnag513Hnb5+rKc+ExU5Xt0hP3BvGbrcKlbdZ6xdAH43uMhweIxHrO5rNzuF0\/5eEOdxDDYeOchckigRhVZahY5+UxDi5RH+SgRG3PJvHNza0jxIqNvEUFPRxCsSYtRoMf3ySUmCsarRbgebgH8RCyU1dNE0xNZAfSA\/qM0\/awhIKPWd31k4kb97CHrW+jiexcKnyQqTgPY4TS97TuYtv12YCjZbEe7UHOrRBlK6lxXsCE7CXKC9M9pok\/mrxpJmFJT6iuo\/aYFm5N3KamkSoxgD9RjlbxGB8vAD6ZzqTZToQEKCeQecX467DOCSHe9ad9EmVWiy+s1nrRcqAXvMeBHcaetjsn0FKsQimzVpC9nX1G8GSfFjotmfZknxY6LSPuhez1ZjH33rbeMciYnRte87\/1ZrEbIlvDmcI6FKtrz55pzhfTotdoSMTmYYVZl5u7kq3LOtxmAb9HM3h7Dy\/GNeu1D+zYk+0AivDqQcT4QfouVwIovxCVhXgerSB3moNtAW0WCRxQDthX9dycf7FdE+ahBG\/nY5tFh23H7JwdB\/I\/FXFqYcvneLyDK7qt8q20JZvHPt1ozCuerWHpTbD2oLbjocN5m3Jc9GxAbV6l7PgCvnd3gdy+rQI\/W5FN4wVf3FchW5Wtoc2zPACU2\/e1bdqsLnZ2yo4\/a8Q0v+bKu1DtQSYXX1LcOpy7C9nyQ1VEblHW3GM\/dltDbte0bUGtySZRzpWwCtkUgcrXTVvnYjlnUMcI2al9l8yHXd2lJSJVYpoiWfjYfUcRqx7NWKK8\/Mo64QBHJ7LJnuZE6sR0KH1PNdkVPMrgvfi1a4oOF\/PZMTtWiml6KeRcLNbJd84NJLL3EAvug67lOdksfV3dmLWyWSldl6PsK7dNNenRAa4iVUw1xiUcJN\/xaAcnZJOY5pr5tSo3KfXgJdQZkvxUaM9wIsaBX2bCAQbbGA61TcKpgeVOe4NIipO7LN9ZwCHbpoljq+qxNJ7PUd2l78d6s9DlQfutwdJnX0PoNTPXz3AaXUq98oGdKjIgqgh\/g9Aw5XzkNwD+oXymM5f1myrYXiZcKh5cP8eZGOdQaOe1Wvdav0UyIHSB9HcV75otnjrtU65DX2SrfsAeYkxWuvuoF8t5RDmOVOYTxJZNrd2GUwEbo407Rhf0QjagJbzYwkhLFIUwxTCLXStSRB6Kz5iJYG3gaIsLK\/RGNlBL+KqJFGqMFew2HwXENsuTFvmaHOS9O5h6JRuo3XbwEYL02h9H9y8hlDl5YkCF0fJ5N4F+yxbVF3gQT2LvZAO1P\/IVgnDjnkg9fgZhus1RXtl4gMELNAZopm+L6sIKo5feBQYhuwBNgcZQp2cOB9gTe3CQ4plCrYN8bZMnvS0GJRv41TO3UP\/4RwgzKx+0Uj2gQeeotUz6wuBkF6jp5YBojC3EDr2TE8k6MP0ihN6auB8rNcloZAOlrMcr6BWvFwjbOp+ibU09OKCPzkcACKkVjzlUjUp2AUPSC7zg3a7eYfi85wGEUlgoiE31HZ3kApMguwATgyuc9s4FRcowqz08+sakyOZo2HxminiFGG7SKQ43wITJ5lBMrEwNk\/faAZZJ70bECuXMip+4eUbiv89Ilx23ChSZHk\/CYjgJsimzIj81k\/7\/hpYrG1uiFDN3Kn6BU8qDxuPTw7EqQeABlieTvPeUyOZj4o3lZuvOQFtfcYfJ5MfqAichxglbiB5d2LV3pLHHQ2i\/5DyJUXacHNFxSc6QOAltvIBmHnhMTHY6VYVTEuO6zdbHwkkRDZwY2UBps3WXu9bawCp7\/5RwUmJcBo3ZMzhY9GaAHYS9fRjgWb3gpMn2sMPJiXGP9vBknxE82WcET\/YZ4f9dEOIkddzpMQAAAABJRU5ErkJggg==\" alt=\"Forest\" class=\"imgs\">\n  <\/a>\n  <h4>Ayurvedic<br>Products<\/h4>\n  <div class=\"desc\">That can easily integrate into your daily life<\/div>\n<\/div>\n<\/div>\n\n\n<\/div>\n  <div class=\"col-12 col-sm-3\">\n\n<div class=\"d-flex justify-content-center\">\n<div class=\"gallery\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAB3CAYAAAAjBT8EAAAACXBIWXMAAAsSAAALEgHS3X78AAALr0lEQVR4nO1dTXKkOBb+XNF7+wbOOYFdJzC1aZaVfYLCJxh3EDEsi1oSMUSnT1D4BJ1esmp8gk6foDNPMM4TeBZ6csJDgPgVkHwRDodIo5T59H709PS4eH9\/x4LzwCfTA1gwHBayzwgL2WeEhewzwi+mBzAUvNC+AnALwGIf7QDsAjfeDz2moXExd2\/cC+0VAB\/At4o\/PQDYAIgCN37reVhGMFuySZJ9AP+ueesRgBO48bbzQRnGLMn2QvsWQATgpkU3T4EbO50MaCSYHdlEdALgUvHxK4AtfS5hAVhDPTFmRfisyCbVvQNwzT56BvBQ5oR5oW1BaAN+72Pgxg\/djdIc5kb2FsBXdvk+cONI8\/4rCMJ5H18CN07ajs80ZkM2SeZf7LI20ayvHbJq\/SVwY6vx4EaCOQVVuKp9akI0YQ3hlUvckS8wacyCbFK\/XPX6Tfsj275hl52m\/Y0FsyAbIjKWxnMHEbGIta2W\/RnHXMhesfaubYc0WQ6pS23W7KPAQnY59h31MwrMhWyOXmLb5BtMFnMluy+sTA+gDRayayBw467MgxEsZJ8RFrLPCAvZZ4SF7DPCQvYZYSH7jLCQfUaYK9mrjvqZdMSMYy5k82DHum2HFBrNJDC07dM05kJ2wtpfKV+8DXgyxL5lf8YxC7Ipqf+ZXebJB9ogqeZkTz6PfBZkEzi5X73Qdup2QkQnyKYiH+ZwaGA2ZFP2J5fun3UITxHNExVmkUo8G7IJDrKJgoAgfFtlw2lS7JEn+mkOUg3MKJVYouJEyDN9Jr33K5xOhPDDAcByImT8KMghr4tZEQ3MiGyyt2v64WnFTfAM4YFv53KEd9Jk90BwEV4hUou3Uz60PzmyySZbEM6YbnrvEcJO75ENjqzo5xZqG6+CPAm6nVqa0iTI9kJbSq8FtSOlwgvoeK4OKeStW6inJQ4QDt92Ch77aMlORbEc6BF8xOnsdWs7m5pga+hJ\/REisLMZq40fJdn0oCNUP+QDTtLbm2SR6XBQvERL4wjAD9y4cbi2L4yKbJLmDcqL3UiCIxM2swbxLwDWY5Ly0ZBdEqoERuoNk51fQ5gbFfEHCMJH4ciNguwSol8hymMkQ4+pLiiQs4H6f7DGIOFjKXqnekiTimDRhLz1QnuDbDmuGwit1Dqhoi2MSzY5Y3+yy5MimoM2VX6yy7+ZXp6NYdeLe63PUyYaAKi8xyO7bNw7N0o2SUDasTliBuUsAIDKaaUP8183SaboEqYl22fthzE4Mh3CZ23HwBg+YMxm03r179SlQ+DGKyOD6RFeaL8hGxz6l6nlo0nJdlg7MjCGIRCxtmNgDADMks2XIpGJQQyAiLUdA2MAYIhsUuFpx+x1TJGxLkHRs9fUpWtTBfRMSbbD2omBMQyJiLUdA2MwRnZjFe6F9lUHpz1agcZQRzp5MMVING1wsomotAo\/6G4UeKG9B\/A\/mLfvWwB\/e6Gd6JTLIhNlXJWbkGw+q7VCiF5op3eW7ijMOjhoHHdyHNBXyRFr697XGUyQ7bC2bhCFn8owVSWYS7LuaRHjqnxQskmF892t715o78tCibR9qJt7NjSudbTMGFT50JJd9FCuIY7pFJE+9rNWTtmHXmg7XmgnyE\/00vu6xtD72VWkSdJ9iDyuiLRBnznhXeCrF9qrdKxAM2FSZrkMgsEkWxFIOQC4R3ZnSOJD0jGCrUFNOIAwVV5oRxD56d9Rbn60TEBXGFKNO6y9Ddw4os2PMtLHLtUSUlX\/A5EwqcqMPSJrt4EBHbUhyS4MpGiQPgVc47Qk4zgA+B3i9Al\/DoORPYjNVqlwVSCFMjwictJ8jNcD18ULxKGB9LLrzQvtV5yctUsvtNdDpCwNJdkOa5f+Y0S61dNYhsATgM+BG1sFJEasPYh0D+WNN4mFO90PoxcckNVAOm\/42wL4I9UehOzeJVtXhSvgsPZTZ4PqFhFrNwmwXA7hlQ+hxh3WjqpuUETMDjr3GUKCfGKhDnERa8+C7C4yUprcMyR4LMDRuGfwWHmvZDfNSKHTFTLv+gXjD6xErF1ZYdGEKu9bsrmjEuneGLjxQ+DGF+TRjjq9mMbHfQpH49aEtadJNs1sfvR29NUJWiBibZ2YN9dY3\/rMwulTsiPWfplrUiHwYXrSjtpl1QkQeh5cI\/QmEL2QTRsBPHTo9\/FdI0MTR81n7Rt6fp2jU7IpEW+LvPp+nMIZ6w4QsfadpqP2O7v8TTe\/rQ46I5v+qQT5XapXaEi1F9oW1Rh9p3X25FDgqFXabqq\/wu+7A5B0acM7IZuWWDu0qzoQ4TRR\/C7GZQhNVDkgJgXf\/rwBsOsqfak12eSEJMjv3z5Bk2haX6bX452qryGhOAGitX6m52QhL+GXEBLutB1bK7IprfYn8kQ\/Bm7s1FgfO6w99iBKFfj4tVKPAjd+o0IE\/CD\/JU7pWo3RmGzyGP9QfHSvseuT7sdC1s7L4nVTBh\/\/XR0\/hJ7fveKj72089dpkk8edIO9xHwF8ob1o3b5ukX8wo60QqIsCR21bx\/bSc\/yMfLH8b15o75p46rX2s8kz3ELtiDl16n3RTN8iawJkSUgV+INaGfLaV6xd9NB9ZEthStu71l2GBm68SwlE+pnfUF+1nrl25YWSCv216nzRhImgztf6rBp8R8Xi+8IR4v9XjVtVCQoQmzuObkSRpHiL\/DMr\/G4VtMgmT3ADhcetW9mIBuwjWyNM4gjxz29Tf2uhfiVik1DWUS0okyXxCJEfrysoEdSlPu91zGcl2eRxqxyxH4Eb+9VD\/OjDR3F6rQVx5kuSO5X04SIcQdWR6cdCceHdI4Sf4ut03IaPUrLbziRSYxsUS6b0vG+hXygeEKbDpBN3hfrj3UJM5qL7DhDVoipXIk01rZLstjaCbKyvuL8pXiEkxUgl4iI0fKtBFV4gVHui8d0J8oQXVkPOkd3G46Z7fZSXkNaFfCFLMoWt0VSFYgvdmKEnCNL3Fd9ZxNWa35shmyR6j5oed+oQ24PiXl1M6hUMZWAOZnr51QQ\/UBJ7qNDCq\/R9nOwIeakstQMVzlcVJvtylTogsyaJb7KyqHTidLjjZCfIzpDXwI2VUR8N56sIk1LPXaOlnT+AjjIX9J0gy99L4MaWbHCyt8jbG+kx7yA84BX0X9IiB5hgBuq5a3jN30sm8+h3ECuDWwhOuHZ9Dtz4Y8eNk13k4dXFWajnruHVf+NQGXIrJ5U3LmOxTdRzgpG9x2Oq8E4vnrHQTN3n3k1SGFTRODYr1bu0v5PeqRozaizrSm26Trh0g3w8u1ZMd0F3IOI3yJNeWcJbh+wdsmpEOyZeBWYy5PsygdM7M99S13bL5DqhYIPlS1nkrXQ\/W1G3rGy\/uQkecDITl8hWDlSNBxCqak+XEvotVwp70\/6CYo\/9Ftk9b9neoYV2pEpSt8hq3QeUFP2tSl7ga+yoY+lq0tc1UmUt+Yc0IQARIwY0tUSKJLmUSSMqmkQFZk4Hd\/RdToN7JXz23aXLt7pkJ\/XHUwof4h9e0U+X+9Y6WkIXD1TnjE+QFZoRLbFqcS8CN37zQvsZKZK90LaKVHndMhud2kx6eE76GgUa5CSTKi99raudtDq4pO9P2PU2z6Mrk7iDZkCmLtmr2kOpCZoACTWTor8jqVohOxEs+r1Cd1pCvjU3NxaSrN+QTRXeI\/tCduU1E8ehqsjm0S8LI6mCQDZ0T01lGJZpCYv9LtMQj6k+S50+CgGbDAOvWbtQ21RlqlxBFHOXyG2bTRnkzfpQnE8r2gAaE0i7\/ZO6dAzc+Krgz8vzxonUl9SlS0z\/tMYHAjfe0UYBT8i\/mcjhQs5FqYbROSTAO\/zW1\/lhU6Dw4g922R9+JPqgoArXSFHZPRfv7+9SnRWKP3XCHR6ZOrtD3iGZIq6Qz\/G+xzj\/Nwf5RIUDitfsb4Eb7y7+899fVXvYC+aH109YiD4X3HxC\/uDYgnni+AtOaUZlNnvB9BEZe6XyguFh+mXpCwbEQvYZYSH7jLCQfUb4P6BRFvDTqImxAAAAAElFTkSuQmCC\" alt=\"ayurvdic\" class=\"imgs\">\n  <\/a>\n  <h4>Lifestyle<br>\nRecommendations<\/h4>\n  <div class=\"desc\">Complement it with Yoga Asanas for maximum benefit\n\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n  <div class=\"col-12 col-sm-3\">\n<div class=\"d-flex justify-content-center\">\n<div class=\"gallery\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAB3CAYAAAAjBT8EAAAACXBIWXMAAAsSAAALEgHS3X78AAAOcUlEQVR4nO1dTXabyBb++p2e2zswvQKpV2B6xDDOCoxXEPVhwDBkyIATZQWNV9DKkFHQCp68god2YK0gb1AXq7gUoqCKHwd95\/gkoKIouFW37j+\/\/fz5E1csA\/+ZegBXjIcrsReEK7EXhCuxF4Tfx7pRmHi3ANYA3LHu2QMHAHkcZK9TD2QIjEZsiBd5N+L9+mKPeU\/I3hiFjYeJt8b7IDQA3E89gKEw1p59O9J9rriA39qMKmHiPQDYGN7nFsBKOt4DyA37tAkfVc6zN+zvFUAUB9nBsB+ruLhnh4nnAPh3gPvmcZBFA\/TbC2HiuagS2wYrXwNwLPRjDW1s3Bnovu5A\/c4Js5NRptKznYnu24T11AMYA11Vr30cZG6fG4WJV+A82+\/CxHPjIMv79GUTYeL5AG6kUybPOGuv0pgrO2XHWzK0TAZSCbfsdDrBUEbB2MQ+SccrADkJR6MiTLzbMPE2EBqBvKqPcZClY49nLIxmQYuDrAgTLwLwVTq9AvAjTLwjgGKssaBZ2vZHHMPoGNNcijjItsQ6H9lPd5heen2agwwxJEaXxuMg8wH8jSpLnxInAB9\/ZfZdYhLVKw6yLYS68wXAcYoxAHih+ztxkO0mGsOoGJWNy4iDrAAQ0R\/GFNR+dXbdhMmIzbFUAoyJa6TKgjDIylZEpRwAHIh187aO6vxSQc4nB+d3lwMobLwjq8QmtSoC8KHh9xcI19+OJsQOwH2YeIBQfVKb43lPIFdyhKorGAA+0+9v767vPawRmwwmn1uarQD8SwO\/RVW3dmyN5T2BJv0WddsDR\/nuvgPw+8TJWSF2mHgp2gcrg89eQDj8l4gduvnPP0Cw9s6eOmNik42ZE\/oE8RBlpMYawAOqdmgZf5PuXfa5hTBdNrWfAt8g2Ki1SUnckBO6fHc5Ha9RfxerMPG2cZB1iiAyIjaxoIidfgHwIAsUksCmWtFHRmgfwCeTcQ2ETxAv3YqnjgQxvu3tId7dK2sbQTiSZFnoExG80L2n6cr2wbxGAFx5sCS05WhepYXhGMZEYbEvvipfmvzo9D4fwsQ7oLpgNop+GmGqZz+w44gR2gfwX1xmx5WVQhL5s+G4hsB31LmYCVx2rEM0\/r758UWYruyKkCCrTsSm\/lFc84wqS6+xdnKW+IZjmzvk5z7qWBDJTfwiXdvJU2i6sivhPOw31Uz9mwhZCbGlibFkFB3a9hYQbZpLuSqQ4uzGPAL4UxLEHNZ2qWpXiS5CX28B0ZSN73FWHW7kIMI4yA7kyXptkMzfoJA+fdhj4zmA7cyT9VY6ZmPigCqNRgumxD6gqidGkASPhoyIDS6wfyK0aq\/vi3u652xSkBrcuQ7a2bmj6kvXY2jKxnlk5j1Z05QgQnLdkrcfgihzMs4Ada510hTQctQjfHhfjTBa2SQdfkPVCPJIMzfCeabeQqwubi16UTg\/UogH6M2uGI6oT8rJQNsYtzj6HbrwUU3JegwTL9IxrtiwjUcQrFsmzh3aWfEJioekvfVXztDw2fGee7LYVlbxBpLHUJaVAKFvt05oY2mciONCmEl1cYKwtM0qy3EkuOxYRSRZbY0Uv\/NreJ9KWFG94iB7jYOsDCBsixp9hgjyWyKhgbpMkivacC5ZgcKnrSXnWA1eiIMsIo+VC0WkCkSqbmHznu8dY6qE1sOSaPA7+rtiRrgGHI4PbkByu3ZAnsTOuBJ7fOTs2O\/RB\/c78D6VsM7Gadb5qKpjRxrQThYuaFY\/QOjju4Xs5ztUkxsfKQhBS2BtyJVLda61GXDo0E1V8VR3EAN8JBfdDkKClI0xqqiXXw5kiOJ6ck5mz4sEp3ecs9N73UVihY3TbON28iasIEymcww9Ggs+O76BIHhjAAMZWg6om361I1VsBBy2hR3poAyyK\/t0IIz+a8zHgZHa2mZodT+hamW8AfBVRXBWokTGUxd7hQ02vkWd0M8QIUoF0MriAcmaRm1VM3hqbGhvjWx0FgdZSskR3KysImoTodMu9zRi4yRgcQI+xUHms1XwoGhX4oXNTh\/zIzQgxtSWBNEJRKyP6Jar3juf3HTP9tnxM4tDuyWX51c0g1uQUlWjmeC77Q5JO3HQnqt+hGE+udWAQ9Sl6Rx1V2U5i8vVW1nxtJ\/9gfkFHO6GsueT1TECENE29j\/W5E8b9zYlNo+QLMqDhhCaFwgibiEROUy8tfwwUqL+4kCTnZ+zMslsWtA4O3bY8R7Nbs25SNy\/NGwGHK7CxLuVvDgHiEI5txBBh7IPlicG5Lxji2U3Xt+LO5XU2NrEl97FwcRLZkrsAtU9dwNivzSommOeBl5h\/+x3B2Kvt1Yqi6x2rsmLGgIUorSB0FYuhWH9kK45QtgkOuV5AebETlG1027CxGsUZKRcZBlcsvRhvybaCkKYzKWxODjb5V+Bceu6kPEkQnc18w6UZEixZ9rxdUZ7Nr0cORS4NPv5vC2t6Bz1GcwHm5uM6QIKaSwOxDbzFSJ47wdEpcWfYeK9hom3CxNvM1SmiqSOmtgTSotbqnuBDQvaBlVz6Q2AfyjN9ACxauTcLhlfOCuKgywPE+8j7AYd8ggZB80v+gYiNfYDxMusWANN0ZDPDojtrEDzZF9DjJu\/x8cw8Q46K\/ziZyNoNf6QTinLM\/cM7H+mvK\/RoXguHXxpM5XyEtRxkP3Gfr+FIChPc\/Z1txAa+xZVop8gjC0XZRJbAYcpgL+gb\/b7MhWhG7CHqKywR\/MzfA4TLzcsm82zYY4A1l1kBWrrohrNewMN75c1PZsG4aDZ7HeCcJD8MYPvg9RWQBxkmzjI3DjIbiHs1aoc8XuYxdY9sONehXDoGk5c3ncNVth4w7W3OO+7Vup42USYeK+orrI\/+BhJ701R3yeVLF2Djcu\/H+Mgc7qOm\/V3kMfG78cxWAwaxZLn9FcMdR8D8BVaE3BIhXRRX+WfLUjqheH1QD140bnUeMkBhxE7\/hAmXsr3ZIll8owXfv0ccFGeGLqcZWn+yzEzVt6UlAjAJWNFKrV9lerDvLUNE29jYJVzSD1tQufImDaz8FjlLMuSjHsIM19ZzjKlticAmz4OeRPEQbZRmG\/vcLYT7CBcmzkVF\/iO6rO56C+w3eFyMMTnMPFqcoQJxi5neQ+Rw83LWd5gunKWLtRVBkuz5CdyOao0jDW6EfuIbqZgF\/rBHK1qr63o0hTdQnZWqD\/0JE4KEiRdtCclqr5j4na8XdGh7QntpmNH+n+rZ89GdKkPtfnvGVVzqY9mE+WXuF7l0Dcdm4TWb39KSYkbDOOMUeEJdY5WlH8aLLzTGG2Us+QqS1M5SxfN5Swjds5mTRVAbB2tYUUsPGgNMWYXapu0McaWUWZXzrJv0poGOpk5aWIcIE3mhviw3uDhWIYo2hqYEpub6FTlLNtWKddrD2Hi\/QUhmNhipd+a7M8kjbuoJySUW1AOihBRxYdJ\/TiKc+U9y38LVAXB3nZ2xaIo2q6ZqpylizMhVeUscwwonUsRItwxIaMkilzJn69Ch4RTF+qJec\/+tYnOE2Wqcpa5fHKoIAEVpLy0z+gWPLCC+kuDj5j+a4NaGLKcpbwKjgD+iicuZylFy8yFOCbyCV\/Zre9wyHKWKXmWClkICccpZ5mDlbAk7rFDfTW\/QMgHBxprIY3Rwbk2TJs0XqYiHyAiWnO6r2w6jtj9N6H4EIwKaYu0fmlxKTF0OUuVdYnvk7yc5QPMVa97CEL50rkUdUJXPldRgiZJzsbl4KyDl\/2UBfUaCwlIfeU0+eVnu\/TB2XsKN7IlrRsTe4uqI+E+TLy0KQol1Ctn6RiOqdZPQwLixy45U0TMDcRqXIMV4NVE1\/YmUTE1DFXOcg0xEWQL2gbjlbM8oSog+uz3577JcUD\/dBwKptRtrpL+ZXA2PvieDajLWa5gWM5StbdrQmVmrNkDevQ7BF6g0Fo0Y9Jq9om2C4yJTb5eF+qY8Ca0lrNU7Zt9QFxG3qtfZuRXf9UkrBUsoZwl3\/d6s+8B4Bhc23k\/H6qc5QPO6gYgBJMDpil\/5bLjsSZZE2R11UTf53HjrRiqnGVqu1+LmMRvPjC0JvDiAg7H3CPnhiUQeyiXaV9wa6HbtYO+buBBoktnBquGCQs4oBq0+KNB9z5CBGGqBMrOdnFgGSv7veIO+rLPdc9WwWL5jjFgVZjsysbbAtvnCGfqATDoqn57NGdmun1u3JXYbYHt7wFlTNxU4Ku1Ne9bA4VOo8WxccxvpdtAodOojdgHdPuE03vA3FSxPuilYVxk45KT4wHve0XIARNDBP9pQ+Hm7DP5htGz34H5sxVkhPggHWt\/rHQEGNsBdJ9lKXt2zo6b4r5+aSyF2NwKNTWxL5Wa1oHT56JFEJvcqrKgeTexcaWQ\/t9HhpBdo9qF6RdBbELKjv0JxlDCpkag7Z9fMrEfx8xEKUERtpN8FmMxxCatglc9SsccAwVRRorz2ivdZPtZDLEJETu+VxXVHRAbqEORTNSvQrfhoohNgto3dno7YE74G2hFNvkVrsQeCBGqqs8NgFr9M5ugyXQpqtXt0F3vibk4YtPe7bPTK4hcLOsE16g8AXTT+3nbXPfCxREbeDMvfmGnVwAKm\/o31RbPUSf0E6r68V144TucrD9ZLz91MfteLFT7q4OqJqgqPb0V52PtH3DOWdtD7Je1zyGzdhxPlM4cob6HK7NKqc8N6h\/D+xYHWeskKbFoYgMXCV6iTCm+ZOk64WzcuNTu7fuZtGUcUJfOy2+NF3R8C8G6eTutgvIyFk9s4M3QscVwxo4jRLkwzgF09nMVWnPlVFjkns1Bq20NdUF5E5wgZANlCSypxHWXAJFLH8O7iOvKZiD26uNcLqtkn0cItpvTvwUEey3z2m5Yux1EbpsWmyXuEqE5\/+s7hHyQ6z4Lx5XYM0N4\/t5YqQa+QtRXMQ4rvhJ7Qbju2QvCldgLwpXYC8KV2AvC\/wFWdQZWNr0ixwAAAABJRU5ErkJggg==\" alt=\"Forest\" class=\"imgs\">\n  <\/a>\n  <h4>Custom Diet<br>\nPlans<\/h4>\n  <div class=\"desc\">Get the meal plans that work for you and your health goals\n\n<\/div>\n<\/div>\n<\/div>\n\n<\/div>\n  <div class=\"col-12 col-sm-3\">\n<div class=\"d-flex justify-content-center\">\n<div class=\"gallery\">\n  <a target=\"_blank\" href=\"#\">\n    <img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAB3CAYAAAAjBT8EAAAACXBIWXMAAAsSAAALEgHS3X78AAAMg0lEQVR4nO1dS3bbOhK96dNzeQfWW4H1VvCYEYdPvQIzK4hzNODQ9FADnigrML2Cpww1CrWCllcQaQVtrSA9QFEBC4DA\/8fEPccDSBQI4+JTVagqfPj16xccpoF\/9d0Ah+7gyJ4QHNkTwr+brCyMfQ+AR8XDerXbNlj3guq+AZCuV7u0qbqngg9NCGhh7C8BbADcsq9OADbr1W5To+4F1f0X++oMIKpT99RQm2wi+h\/LYy\/r1S6oUPcCQApg1nTdU0StPTuM\/RsASYFH72lQlMUW14nO6g4q1D05VCbbMuu+az57KFn\/Euq2sAfwqnn8OYz9Bxp8DgaUJjuM\/XkY+wmA\/wK4Y1+fAXxcr3ZLAF\/Yd3zPtWHByvv1audBCGk6wr8COIaxHznS9ShMdhj7N2HsbwD8BHBveOxBkpIPNdvGkQLAerV7w2+Jn2MG4BHAgVYeBwmFyKaZkgL4bHlUXkqD6s3SIpDqtm0JtwBSR3geRWf2FuqSDQjVSsYdgP+Fsf8Gdfbr9nHbO2XcSnU\/Fvj9DMDWLem\/YSWbJF2+375C7M1z6PdPndAWlWnYerU7QAhkRep+AvBR8\/xt2fe+ZxSZ2XzJfAXgSXtzACGYXcMnIq8sltAPJl53tF7tUhLg+AoSuNktcJXsMPbnUJfvgIQkAJcZuADwoqkiWwGSKo2ThLFvUAfU3lB3wJ6dQQyayeOqBU1jHXtdr3ZXhR6yjwPAcb3aHes2kNW9gLCNH+QBp3kuQV5meFqvdlGTbRkjbAchnNjUVmGbBxQltoIDzOrhZFHWqGKcTQMDHxRuz8Z0zrOdvo3pkO0AR\/ak4MieEBzZE4Ije0JwZE8IjuwJwZE9ITiyJwRH9oTgyJ4QHNkTgiN7Qmg0sM9BD8mh44I+AhMd2S2A3LkeIFyqdF65CGMfEG5bCYBt0149OjiyGwSRHKG4l8wdRCTL1zD2XyCiUo+tNA5uz24MYexHuB4tY8M9RCRLqZi4MnAzuyakaBntck04I+8qtYDe\/30GMcsXbYQhO7JrgLxdt1CjTQFKRADDfkxL\/hJib+e\/vw9j\/4YCJBuDI7siaEbriD5D+NZfTTFCA2ADYENbAA9p+juM\/aTJGe727OpIoRL9CmBeNpcM+bT\/CTUQ4r7JPdyRXQE0E\/kenYVFVXK3Jp94DyrhES35teHILglJh5ZxQg2iMxDhfJ+eoaHgxFz4D1l6flSo50ufWYuIgJ8lflI56Y5hf\/3YpEXM8I4\/6urgfGbPK9bTdJaFUqjQCfMar+Ozet+C6XMDNfa99t7dFNmTAAU6cv04avo9tB3wemurYW7PLgceRnRq8UBDyTxRN20I17OPrJxlKMohjP0U+WwM8zqNqAvDqdIH6fsI+T2wqiDF39NYuk6O9Wr3Fsb+Hvl+9lBjy+Qz+1jwd\/y5edUG9ISqHTZn5bReM6zg9fP3l4JtGTflLjuyct9RkkrOtJbew40obYcw80FZq5852cqIN+QjabQRDYC\/\/8jKnuX7SujAAaHRwZQjm6RALvLriORk3zZl5akILqmmrDxn5WNbDRkydMs4J9LjD5BeywdF0EiLSsKgDqXS93Ow5Xequcp1ZKesbNLvuCTaV6JYJXUXM7Lw9ttSbQ0Ztfq3CNl3hiWam0dnaMDKUwakcnEhkreLtyltqz0tgG+hdzo1sygUsskYb12iafbwBHOPXeULNeQ6P8l50ahjuATNfzMohLEfhLG\/DWP\/F4R\/GsePMPaPYexvyspJJtVLmR2GJVo3k5OOlvMEKpGRpbyvmGmxdYSxvwxj\/wjgGcDflsdvIZIG\/wxjPylKuonsBGqWQIVYmt1P7OM7iIzArRFOSe14h+w1s5ov8QkGBkrtnUAkF9S5N9mQOSoGtge1ZJMKxmf3o24EkZcFF3oywpXn60DqGO7BeYa61SSsnFvihwDJWdHkkXqCMBA9QaT03EOfJ3YGcZtCcO1913zQNhCzWVZrttDr3R6EyiaPzDuIEdfIDT00UzfQe3F6sgROSfD5LOlUeCwIU2rvF4hbk7RbDpEaQf0fn8PYh2lQ23KXPkAVEr6tVzul4yyelnsIB\/jU+DJzGxYQRJlG\/yfN8s0dMLQHOhXakuss+bClQl0RVAeFM4Bl0X6iQc0T\/p8BLHRn\/NarnjQnXADrYOlZmw\/1CWJAbK\/9Q9JlcMsrdZ0hZvRl9BsuqTH+82XRFNm0vR2Qb+cJop2lTKQ0y5\/Zx1pPnCJk6xoGXCc8gv2KCUB1ni96acwewl33KL1XR7SxnVXQINm6GfknX7bJOrjEb3NvCiDhA9dQn+LGZHVeoB\/orGjPOjfX9Wr3Rsv8R6j6OscMguDsz4YTBHl8jzYR\/TI0oYwQsPITW6FuaEX9B2L7yvrnEULditjvIxRwYyrkqUJL7ifNV19Jz1PULMrsP6ff1TVRvkKQPOfk0ZKfQiV6P8Sb\/Ki9vK1cgE1xffA\/yoQbtCdlghZ2S6JO1hGe6Xme6XeUkP4PiLu+TOqDjDM99wVieVtoSM6unvoBtfNeMdzbAzxW\/i7v0wafdB24Kpyw75WTyFLhP+vVLqG4Yi4Q3EKY8b5BSN2KkCGHuwCXvV1R44pIoldUD0CoLQ91fbhbxJyVuXqlG6TfIQYJH9QByEpIbkyvyA8UD9IgKB3rRYQfob8n8zPEBSwbCD3R2OH0XVrm3RaSAYNaODDMWTllZT6rX9arXWCQSzz2LO\/v3LsqeZfS7FvAfBXTI8QdXElY7cLVC8hmnNB9Xs\/QE30G8J8REF0FEXA5oKplnKocxUnLskcSeQR9vPE9RHAaIAZGCrFsvYFdGCPt+QuIEblAMQnduHUMFLydHvKz+4T8gE5oH7+BKmHzLYALyrl31Q7ZXa92G7JXP0A1r8pQ1CsaBFXRelqKlnBA\/hBnzr7fIq8z\/wVzSNbFgYRkIL4FpHKhkfjsLIKB9uoA+gDzJnCGEDg2IyQ5g00giyD60HZv+AsTZnk9Z26kaTQYX9L3NiRQBChmSbPhBcLEyl2hxoiUlWdh7AeZaklStQfz3eSA3hzKy0pfWc2ldWEw+F\/z654jvyoMRsJu0FyaIH+wc4YI4pf17WyP9iCW8hPEqrDh6qnhwEqJLG09zcZ6tYvC2H9kn3mm5xsM1RkyIuTJnkHM5IvdwRDcp4BWUP7cq85eMcTAvi5cmnoFyRvf2Md3Yewfynj4kFqbQl3utSvhEBPocKvae5zZgJiNHvIS9B2AIy3LW5M6GV5PrvfNZIUcItkcg3QQrAsSxJZQj49nEMajDZ18yf\/\/Da6kyIQQ3IzyzRjIfrdYr3ZHycOHEziD0MdtnqYZrKlDetmzLfvSvKt2DAGZJRLqHl4Umak4sD3YFdn8PDvQPTTVuCzm8MEDL0w4QRwBF8671tUyfkB+mfpKy9eRPRewss3T5V2BBnbmc+9BCKvZUfDlTAFAWsWC2BXZCVTJsUj23qTxlowAJIVv0XAaj06WcRqxZfekV9Q80nPIozMBjfakL7C7JAHCnFo7Y6BDHp2qXhQZsiH9cgP1ZOwJwpjwLnXrvtGLnr1e7bYkhMi+bHuKG3NoCX3axo89vnuSGOJBiENLcGRPCI7sgtAEQRTRKgaFIZE977sBJTE6jaFPsnlnteGg2CSU6JWxoTeydQaTOmmfOgAnO+2jEXXQ9zLOHQ+HPHt42459NKIO+iY7ZeVBRl7S0etVB\/wxYGhk\/9VTSkwb+CA8jTFIoVey6TSMqzBB9y2xImDlUQYr9D2zAU3C215aYQAJjXwJH+XR6xDI5h13WyRbX4eIWHk\/xiUcGADZdJzJpfJoCHs3HcXysOGoh6Y0gt7JJkSsfKv5rFMYsh63cWFbZxgE2dSBfHZ\/7tnIkqCDC9u6xCDIJgRQJfNtV\/nLZVBwIXfO\/z7mWQ0MiGwSergkPkN3+csBXJL06HKKBl21oS0MhmzgkmvthX3cSjprHQx5QAGRPHb0zo+DIhsAKIxFl7\/cmFivCVCAvI7oL2NfvjO0nnmhCizZjZ9gybFW8l0LCGFMm\/d7iCkxq2KQZANWwk8QmZKSGvXPYY5xBt4Z0cCAyc5guCYiQ5Y96Wr+cqmuG4hDjSWuh8I2lrZ6SBg82cBFcNrAni5qD3HOfGSfe1AT8+hwghDGRudyVASjIBu4LLsJiiegL4MzhBwQtVD3YDAasjOQRB6hGdJP+J1Eb\/SqlQ2jIzsDzfQsT1iR\/NwZsntK0neSRK8wRku2DCl3uWd45A3Cm\/UwhRlswrsg26EYBmdBc2gPjuwJwZE9IfwfHskH0uAbvDQAAAAASUVORK5CYII=\" alt=\"Forest\" class=\"imgs\">\n  <\/a>\n  <h4>Expert<br>\nConnect<\/h4>\n  <div class=\"desc\">If in doubt, reach out to our Ayurveda Experts, for free.\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div>",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "template--19720801812798__4098351b-5a00-4352-ada3-02bcfb8d58e4-16884844658ca17500-0"
+      ],
+      "custom_css": [
+        ".container {margin-top: 20px; margin-bottom: 20px;}",
+        ".imgs {width: 80px;}",
+        ".gallery {text-align: center;}",
+        ".desc {font-weight: 600;}"
+      ],
+      "settings": {
+      }
+    },
+    "blog-blog-posts": {
+      "type": "blog--blog-posts",
+      "blocks": {
+        "a3a43f90-cf6f-479d-8ab3-0ba8a793f5a8": {
+          "type": "article",
+          "settings": {
+            "blog_post_1": "news\/pure-shilajit-the-wellness-miracle-worker",
+            "blog_post_2": "news\/common-himalayan-shilajit-myths-busted-by-facts",
+            "blog_post_3": "news\/pure-shilajit-the-wellness-miracle-worker",
+            "blog_post_4": "news\/common-himalayan-shilajit-myths-busted-by-facts"
+          }
+        }
+      },
+      "block_order": [
+        "a3a43f90-cf6f-479d-8ab3-0ba8a793f5a8"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "Learn more about Ayurveda",
+        "richtext": "",
+        "blog_show_date": true,
+        "post_limit": 4
+      }
+    },
+    "text-text-adverts": {
+      "type": "text--text-adverts",
+      "disabled": true,
+      "blocks": {
+        "advert-0": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "advert-1": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "advert-0",
+        "advert-1"
+      ],
+      "settings": {
+        "colors": "dark"
+      }
+    }
+  },
+  "order": [
+    "image-slideshow",
+    "a9b5a5a3-f011-4361-8902-7a94413b96f9",
+    "89b500ff-a107-498f-9662-642fd524658f",
+    "7b74f60b-fe73-40e0-83bb-fa6ebde0e762",
+    "61004832-df94-4f2f-87aa-53324358a2dc",
+    "featured-collection",
+    "0a8c26dd-d2d4-4d60-8062-91b4b4e4c59b",
+    "4187a182-af23-41e6-bcdd-4c4b554f108b",
+    "ea539e0a-759b-4234-be8f-2ef68c7f9a3a",
+    "video-video-hero",
+    "6bbb4410-137e-45e4-b005-cc424f1835b2",
+    "featured-collection-01",
+    "image-text-with-image-overlay-1",
+    "logo-list",
+    "image-image-with-text-1",
+    "products-featured-product-1",
+    "image-gallery",
+    "image-gallery-0",
+    "d0e7d0ce-fa6b-4a2c-9123-815a7285a560",
+    "0dc9970e-5558-476e-8231-048b311f75cb",
+    "2943d0ae-c1d6-4084-bed9-35797ac98ea5",
+    "edb9d3c4-6628-4931-9e97-3bf889553d59",
+    "4098351b-5a00-4352-ada3-02bcfb8d58e4",
+    "blog-blog-posts",
+    "text-text-adverts"
+  ]
+}

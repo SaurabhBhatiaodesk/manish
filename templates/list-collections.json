@@ -1,0 +1,51 @@
+{
+  "sections": {
+    "main": {
+      "type": "template--collections-list",
+      "settings": {
+        "banner-image-size": "20vh",
+        "parallax": true,
+        "show_title": false,
+        "hover-effect": false,
+        "enable_badges": true,
+        "layout": "preview",
+        "items_per_row": 3,
+        "show_options": "all"
+      }
+    },
+    "rich-text": {
+      "type": "text--rich-text",
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.<\/p>",
+        "button_label": "FAQs",
+        "button_link": "shopify:\/\/collections"
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image_height": "40vw",
+        "bg_image_overlay_opacity": 0,
+        "parallax": true,
+        "title": "Share your story",
+        "text": "Add a large image with text overlay to give focus to your chosen product, collection, or blog post",
+        "colors": "dark",
+        "textPosition": "left",
+        "textAlignment": "left",
+        "heading--text-size": 26,
+        "text--text-size": 18,
+        "link": "shopify:\/\/collections\/all",
+        "button_label": "Learn more",
+        "button-text": "#ffffff",
+        "button-background": "#000000"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich-text",
+    "image-with-text-overlay"
+  ]
+}

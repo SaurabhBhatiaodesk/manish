@@ -1,0 +1,54 @@
+<div class='bx-slider'>
+  <div class="container">
+<section class='bxslider logosImgs'>
+  {% assign menu = linklists.home-menu %}
+
+ {% for link in menu.links %}
+<div class="slide">
+    {% if link.links != blank %}
+      {% assign link-title = link.title | strip %}
+        <a href="{{ link.url }}">{{ link.title }}</a>
+   
+    {% else %}
+
+        <a href="{{ link.url }}">  
+          {% if link.type == "collection_link" and link.object.image %}
+            <img src="{{ link.object.image | img_url: '450x450' }}" alt="{{ link.title }}"  class="category-logo" />
+          {% endif %}
+         <h4>{{ link.title }}</h4>
+        </a>
+    {% endif %}
+</div>
+  {% endfor %}
+</section>
+</div>
+
+ </div>
+
+ <br><br>
+{% schema %}
+  {
+    "name": "Categories List",
+    "settings": []
+  }
+{% endschema %}
+
+
+
+
+<script>
+  
+$('.bxslider').bxSlider({
+  autoHover: true,
+  auto: true,
+  slideWidth: 180,
+  minSlides: 2,
+  maxSlides: 6,
+  controls: true,
+  pager: true,
+  speed: 500,
+  captions: true,
+  slideMargin: 5,
+});
+
+</script>
